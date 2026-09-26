@@ -129,8 +129,8 @@ The scripts in `gee/maps/` draw each map and set up an export. To save a map, go
 ### Scoring script
 
 ```bash
-git clone https://github.com/<your-username>/pa-urban-heat-island.git
-cd pa-urban-heat-island
+git clone https://github.com/rpatel-23/pa-urban-heat-island-analysis.git
+cd pa-urban-heat-island-analysis
 pip install -r requirements.txt
 python analysis/county_need_score.py --plot
 ```
