@@ -1,0 +1,11 @@
+county,lst_f_norm,tree_canopy_pct_norm,ndvi_norm,pop_density_norm,ndbi_norm,county_need_score
+Philadelphia,1.0,1.0,1.0,1.0,1.0,5.0
+Northampton,0.053,0.545,0.727,0.034,0.532,1.891
+Lancaster,0.069,0.59,0.413,0.009,0.336,1.417
+Delaware,0.402,0.614,0.046,0.239,0.0,1.301
+Montgomery,0.414,0.382,0.07,0.118,0.17,1.154
+Allegheny,0.093,0.229,0.095,0.105,0.293,0.815
+Bucks,0.178,0.307,0.094,0.052,0.175,0.806
+Lehigh,0.136,0.373,0.132,0.055,0.058,0.755
+Cumberland,0.077,0.176,0.082,0.0,0.205,0.541
+Chester,0.0,0.0,0.0,0.022,0.084,0.106
